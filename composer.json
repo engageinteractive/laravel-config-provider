@@ -1,0 +1,30 @@
+{
+    "name": "engageinteractive/laravel-config-provider",
+    "description": "Allows your users to change which config file your Laravel package uses at runtime.",
+    "version": "1.0.0",
+    "type": "library",
+    "require": {
+        "laravel/framework": ">=5.5 <5.8"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^3.7",
+        "mockery/mockery": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "EngageInteractive\\LaravelConfigProvider\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Nadin",
+            "email": "nadinengland@gmail.com"
+        }
+    ]
+}
