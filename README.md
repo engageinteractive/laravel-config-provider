@@ -101,7 +101,7 @@ class AppServiceProvider extends ServiceProvider
      * @var array
      */
     public $bindings = [
-        \Example\Package\ConfigProvider::class => \App\Config\FrontendConfigProvider::class,
+        \Example\Package\ConfigProvider::class => \App\Config\ExamplePackageConfigProvider::class,
     ];
 
 ...
