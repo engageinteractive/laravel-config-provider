@@ -112,7 +112,7 @@ The package uses `ConfigProvider` via the Laravel Service Container exclusively,
 
 ## Laravel Compatibility
 
-Works on Laravel 5.5, 5.6 and 5.7.
+Works on Laravel 5.5+.
 
 ## License
 
