@@ -1,10 +1,10 @@
 {
     "name": "engageinteractive/laravel-config-provider",
     "description": "Allows your users to change which config file your Laravel package uses at runtime.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "library",
     "require": {
-        "laravel/framework": ">=5.5 <6"
+        "laravel/framework": ">=5.5"
     },
     "require-dev": {
         "orchestra/testbench": "^3.7",
