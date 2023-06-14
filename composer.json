@@ -4,7 +4,7 @@
     "version": "1.1",
     "type": "library",
     "require": {
-        "laravel/framework": "^10"
+        "laravel/framework": "^8"
     },
     "require-dev": {
         "orchestra/testbench": "^8",
